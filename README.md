@@ -1,4 +1,5 @@
-
+Due to the 10 MB file upload limit, the original video file (36.7 MB) has been split into six smaller parts (Part01-Part06).
+The complete original video is available on my YouTube channel, @ScubaBase-ROV, or directly at: https://youtu.be/9WjKP4y2-6I
 
 https://github.com/user-attachments/assets/cdbb420e-999c-4b75-8dc0-48c259b4fa44
 
