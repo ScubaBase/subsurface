@@ -2,7 +2,7 @@ Due to the 10 MB file upload limit, the original video file (36.7 MB) has been s
 The complete original video is available on my YouTube channel, @ScubaBase-ROV, or directly at: https://youtu.be/9WjKP4y2-6I
 
 ```
-##Part 1: about the Subsurface command-line option --dive-no=
+Part 1: about the Subsurface command-line option --dive-no=
 Part 2: PowerShell & command-line
 Part 3: URL link - potential issue
 Part 4: URL link - solution
