@@ -3,7 +3,7 @@ The complete original video is available on my YouTube channel, @ScubaBase-ROV, 
 
 ```
 Part 1: about the Subsurface command-line option --dive-no=
-Part 2: PowerShell & command-line
+Part 2: PowerShell & Command Prompt - launch Subsurface
 Part 3: URL link - potential issue
 Part 4: URL link - solution
 Part 5: demo 1 --dive-no=8
