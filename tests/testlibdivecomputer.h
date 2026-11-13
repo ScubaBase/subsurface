@@ -9,6 +9,11 @@ class TestLibdivecomputer : public TestBase {
 private slots:
 	void cylinderUseFromTankUsage_data();
 	void cylinderUseFromTankUsage();
+	void matchTanksToGasmixes_data();
+	void matchTanksToGasmixes();
+	void gasmixCylindersPreferUsed();
+	void fixupCylinderPressures_data();
+	void fixupCylinderPressures();
 };
 
 #endif
